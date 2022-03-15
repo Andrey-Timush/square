@@ -1,6 +1,6 @@
 {
     "name": "timush/square",
-    "description": "\"this is library for square\"",
+    "description": "this is library for square",
     "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
