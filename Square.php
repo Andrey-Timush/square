@@ -13,9 +13,10 @@ class Square{
     }
 
     public function getVaue() {
-        $result = $this->val * $this->val;
-        echo "res = {$result}";
-        return $result;
+        echo "123";
+        //$result = $this->val * $this->val;
+        //echo "res = {$result}";
+      //  return $result;
     }
 }
 ?>
