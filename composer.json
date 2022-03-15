@@ -1,0 +1,17 @@
+{
+    "name": "timush/square",
+    "description": "\"this is library for square\"",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Timush\\Square\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Timush",
+            "email": "andrikshumit@gmail.com"
+        }
+    ],
+    "require": {}
+}
